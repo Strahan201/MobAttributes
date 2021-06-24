@@ -1,0 +1,11 @@
+messages:
+  access-denied: '&cAccess denied!'
+  reloaded: '&aConfiguration reloaded!'
+  plugin-enabled: '&6Mob attributes are globally &aenabled'
+  plugin-disabled: '&6Mob attributes are globally &cdisabled'
+  moba-list-empty: '&cNothing has been configured yet!'
+  moba-list-empty-mob: '&7[&a%mob%&7]: &6No attributes configured'
+  moba-list-mob: '&7[&a%mob%&7][&e%attr%&7]: &6%value%'
+  moba-disabledmob: '&7[&a%mob%&7]: &6Removed all attribute settings'
+  moba-disabledattr: '&7[&a%mob%&7][&e%attr%&7]: &6Removed setting'
+  moba-set: '&7[&a%mob%&7][&e%attr%&7]: &6Set %value%'
